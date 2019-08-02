@@ -1,0 +1,28 @@
+.botao{
+    border: none;
+    background-color: #00ff00;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.botao-diminuir{
+    border: none;
+    background-color: #ff3300;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    left: 50%;
+    opacity: 0.5;
+}
+
+.botao-zerar{
+    border: none;
+    background-color: #0400ff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    left: 50%;
+    opacity: 0.5;
+}
